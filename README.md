@@ -19,3 +19,4 @@ Extract the zip and open ```weather.exe```.
  python setup.py build
  ```  
  Check ```<project-location>\build\exe.win32-2.7\weather.exe```.
+
