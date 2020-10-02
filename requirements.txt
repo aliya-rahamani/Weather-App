@@ -1,0 +1,6 @@
+Packages to install-
+
+Python 3
+pip 
+PySimpleGUI 
+Requests
